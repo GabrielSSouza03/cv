@@ -175,7 +175,7 @@ export const pt: Content = {
     ],
   },
   contact: {
-    heading: "Vamos construir algo confiável.",
+    heading: "Vamos construir algo?",
     lead: "Aberto a oportunidades em engenharia backend e full stack. O caminho mais rápido é por e-mail.",
     emailLabel: "E-mail",
     elsewhereLabel: "Outros canais",

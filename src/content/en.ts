@@ -175,7 +175,7 @@ export const en: Content = {
     ],
   },
   contact: {
-    heading: "Let's build something reliable.",
+    heading: "Let's build something?",
     lead: "Open to backend and full-stack engineering roles. The fastest way to reach me is email.",
     emailLabel: "Email",
     elsewhereLabel: "Elsewhere",
