@@ -35,7 +35,7 @@ export const pt: Content = {
     location: "Santa Rita do Sapucaí, MG",
     headline: ["Transformando problemas", "complexos em software", "escalável"],
     intro:
-      "Engenheiro com foco em backend no Inatel, desenvolvendo APIs, integrações e sistemas de negócio com Node.js, NestJS e TypeScript — com uma base em QA que mantém a confiabilidade no centro.",
+      "Engenheiro com foco em backend no Inatel, desenvolvendo APIs, integrações e sistemas de negócio com Node.js, NestJS e TypeScript, com uma base em QA que mantém a confiabilidade no centro.",
     ctaContact: "Entre em contato",
     stackLabel: "Stack principal",
     stack: ["Node.js", "TypeScript", "NestJS", "PostgreSQL"],
@@ -43,9 +43,9 @@ export const pt: Content = {
   about: {
     heading: "Engenharia além do código. Sistemas feitos para funcionar, evoluir e escalar.",
     paragraphs: [
-      "Sou Engenheiro da Computação e desenvolvo sistemas backend — APIs, integrações e os sistemas de negócio que dependem delas. No Inatel, atuo em toda a stack com Node.js, NestJS, TypeScript, React, Next.js, Python e PostgreSQL.",
+      "Sou Engenheiro da Computação e desenvolvo sistemas backend: APIs, integrações e os sistemas de negócio que dependem delas. No Inatel, atuo em toda a stack com Node.js, NestJS, TypeScript, React, Next.js, Python e PostgreSQL.",
       "Comecei em garantia de qualidade, automatizando testes web e mobile e analisando riscos, antes de migrar para o desenvolvimento. Essa trajetória moldou minha forma de construir software: penso em como um sistema falha tanto quanto em como ele funciona, e priorizo código testado, revisado e fácil de evoluir.",
-      "Tenho interesse especial em desenvolvimento backend, arquitetura de software, sistemas distribuídos e integrações — construindo software que continua confiável à medida que cresce.",
+      "Tenho interesse especial em desenvolvimento backend, arquitetura de software, sistemas distribuídos e integrações, construindo software que continua confiável à medida que cresce.",
     ],
     focusLabel: "Foco",
     focus: ["APIs", "Integrações", "Sistemas de negócio", "Qualidade de software"],
@@ -122,7 +122,7 @@ export const pt: Content = {
   skills: {
     heading: "As ferramentas por trás do trabalho.",
     intro:
-      "Agrupadas pelo lugar onde aparecem no meu dia a dia. Sem notas — a experiência acima é a evidência.",
+      "Agrupadas pelo lugar onde aparecem no meu dia a dia. Sem notas. A experiência acima é a evidência.",
     groups: [
       {
         id: "backend",

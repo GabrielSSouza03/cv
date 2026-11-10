@@ -35,7 +35,7 @@ export const en: Content = {
     location: "Santa Rita do Sapucaí, MG",
     headline: ["Turning complex problems", "into scalable software"],
     intro:
-      "Backend-focused engineer at Inatel building APIs, integrations, and business systems with Node.js, NestJS, and TypeScript — with a QA background that keeps reliability at the center.",
+      "Backend-focused engineer at Inatel building APIs, integrations, and business systems with Node.js, NestJS, and TypeScript, with a QA background that keeps reliability at the center.",
     ctaContact: "Get in touch",
     stackLabel: "Core stack",
     stack: ["Node.js", "TypeScript", "NestJS", "PostgreSQL"],
@@ -43,9 +43,9 @@ export const en: Content = {
   about: {
     heading: "Engineering beyond the code. Systems built to work, evolve, and scale.",
     paragraphs: [
-      "I'm a Computer Engineer who builds backend systems — APIs, integrations, and the business software that depends on them. At Inatel I've worked across the stack with Node.js, NestJS, TypeScript, React, Next.js, Python, and PostgreSQL.",
+      "I'm a Computer Engineer who builds backend systems: APIs, integrations, and the business software that depends on them. At Inatel I've worked across the stack with Node.js, NestJS, TypeScript, React, Next.js, Python, and PostgreSQL.",
       "I started in quality assurance, automating web and mobile tests and analyzing risk before moving into development. That path shaped how I engineer: I think about how a system fails as much as how it works, and I favor code that is tested, reviewed, and easy to change.",
-      "I'm most interested in backend development, software architecture, distributed systems, and integrations — building software that stays reliable as it grows.",
+      "I'm most interested in backend development, software architecture, distributed systems, and integrations, building software that stays reliable as it grows.",
     ],
     focusLabel: "Focus",
     focus: ["APIs", "Integrations", "Business systems", "Software quality"],
@@ -122,7 +122,7 @@ export const en: Content = {
   skills: {
     heading: "The tools behind the work.",
     intro:
-      "Grouped by where they show up in my day-to-day work. No scores — the experience above is the evidence.",
+      "Grouped by where they show up in my day-to-day work. No scores. The experience above is the evidence.",
     groups: [
       {
         id: "backend",

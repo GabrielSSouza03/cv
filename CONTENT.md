@@ -123,7 +123,7 @@ confirm it was used professionally (it will appear under Frontend).
 
 **EN**
 
-> I'm a Computer Engineer who builds backend systems — APIs, integrations, and the business
+> I'm a Computer Engineer who builds backend systems: APIs, integrations, and the business
 > software that depends on them. At Inatel I've worked across the stack with Node.js, NestJS,
 > TypeScript, React, Next.js, Python, and PostgreSQL.
 >
@@ -132,13 +132,13 @@ confirm it was used professionally (it will appear under Frontend).
 > fails as much as how it works, and I favor code that is tested, reviewed, and easy to change.
 >
 > I'm most interested in backend development, software architecture, distributed systems,
-> and integrations — building software that stays reliable as it grows.
+> and integrations, building software that stays reliable as it grows.
 
 Focus: APIs · Integrations · Business systems · Software quality
 
 **PT**
 
-> Sou Engenheiro da Computação e desenvolvo sistemas backend — APIs, integrações e os
+> Sou Engenheiro da Computação e desenvolvo sistemas backend: APIs, integrações e os
 > sistemas de negócio que dependem delas. No Inatel, atuo em toda a stack com Node.js,
 > NestJS, TypeScript, React, Next.js, Python e PostgreSQL.
 >
@@ -148,16 +148,16 @@ Focus: APIs · Integrations · Business systems · Software quality
 > código testado, revisado e fácil de evoluir.
 >
 > Tenho interesse especial em desenvolvimento backend, arquitetura de software, sistemas
-> distribuídos e integrações — construindo software que continua confiável à medida que cresce.
+> distribuídos e integrações, construindo software que continua confiável à medida que cresce.
 
 Foco: APIs · Integrações · Sistemas de negócio · Qualidade de software
 
 ## 6. Hero intro — draft
 
 - EN: "Backend-focused engineer at Inatel building APIs, integrations, and business systems
-  with Node.js, NestJS, and TypeScript — with a QA background that keeps reliability at the center."
+  with Node.js, NestJS, and TypeScript, with a QA background that keeps reliability at the center."
 - PT: "Engenheiro com foco em backend no Inatel, desenvolvendo APIs, integrações e sistemas de
-  negócio com Node.js, NestJS e TypeScript — com uma base em QA que mantém a confiabilidade no centro."
+  negócio com Node.js, NestJS e TypeScript, com uma base em QA que mantém a confiabilidade no centro."
 
 CTAs: "Get in touch" / "Entre em contato"; "Download CV" / "Baixar currículo".
 
