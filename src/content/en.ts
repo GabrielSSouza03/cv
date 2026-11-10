@@ -3,7 +3,7 @@ import type { Content } from "./types";
 export const en: Content = {
   locale: "en",
   meta: {
-    title: "Gabriel Simões — Backend Software Engineer",
+    title: "Gabriel Simões | Backend Software Engineer",
     description:
       "Gabriel Simões is a Backend Software Engineer building APIs, integrations, and business systems with Node.js, NestJS, and TypeScript.",
   },
@@ -14,7 +14,7 @@ export const en: Content = {
     closeMenu: "Close menu",
     languageSwitch: "Language",
     opensInNewTab: "(opens in a new tab)",
-    home: "Gabriel Simões — home",
+    home: "Gabriel Simões, home",
   },
   languageNames: { pt: "Português", en: "English" },
   nav: {

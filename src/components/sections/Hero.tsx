@@ -14,7 +14,7 @@ export function Hero({ content }: { content: Content }) {
         <p className="meta flex flex-wrap gap-x-3 gap-y-1 text-ink-muted">
           <span className="w-full text-ink sm:w-auto">{hero.role}</span>
           <span aria-hidden className="hidden sm:inline">
-            —
+            ·
           </span>
           <span>{hero.location}</span>
         </p>

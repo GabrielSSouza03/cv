@@ -19,7 +19,7 @@ export function Section({ id, index, label, heading, tone = "default", children 
         <div className="grid gap-y-8 border-t border-ink pt-6 pb-[clamp(5rem,10vw,9rem)] lg:grid-cols-12 lg:gap-x-6">
           <p className="meta text-ink-muted lg:sticky lg:top-24 lg:col-span-3 lg:self-start">
             <span className="text-ink">{String(index).padStart(2, "0")}</span>
-            <span aria-hidden> — </span>
+            <span aria-hidden> · </span>
             {label}
           </p>
           <div className="lg:col-span-9">

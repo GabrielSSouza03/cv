@@ -81,5 +81,5 @@ function RoleItem({ role, content, today }: { role: Role; content: Content; toda
 }
 
 function formatPeriod(start: YearMonth, end: YearMonth | null, locale: Locale, present: string) {
-  return `${formatYearMonth(start, locale)} — ${end ? formatYearMonth(end, locale) : present}`;
+  return `${formatYearMonth(start, locale)} – ${end ? formatYearMonth(end, locale) : present}`;
 }

@@ -77,7 +77,7 @@ Right: language switch `PT / EN` (mono, current locale in ink, other muted) and 
 "CV ↓" link. Mobile: monogram + `PT/EN` + menu button → full-screen sheet with large serif nav
 links and the CV action.
 
-**Hero.** Top: mono line — `Backend Software Engineer — Santa Rita do Sapucaí, MG · Open to remote work`.
+**Hero.** Top: mono line — `Backend Software Engineer · Santa Rita do Sapucaí, MG · Open to remote work`.
 Name in sans 500 at h3 size. Headline in the serif display, spanning ~10 columns, broken by
 intent ("Turning complex problems / into scalable software.") with the closing period in orange.
 Below, an asymmetric split: short intro paragraph (cols 4–9) and the two actions
